@@ -9,6 +9,10 @@ SERPS - CURL Client
 
 This is a CURL Client implementation for [SERPS](https://github.com/serp-spider/serps)
 
+Requirements
+-------
+cURL >= 7.48.0
+
 Install
 -------
 
